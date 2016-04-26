@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MININT-USL8E59</Machine>
+    <WindowsUser>nalivorn</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Master|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>Mushroom</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\obj\x86\Master\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>28A262E9A65A2018EDD33083A3177EB1E97662AA3A6CE10A64869BB3349D9AE1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Mushroom_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Mushroom_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Mushroom</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\bin\x86\Master\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-30T20:51:04.375</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\bin\x86\Master\Template.exe">
+      <PackagePath>Template.exe</PackagePath>
+      <Modified>2014-09-30T20:51:39.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assembly-CSharp-firstpass.dll">
+      <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
+      <Modified>2014-09-30T20:51:33.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+      <Modified>2014-09-30T20:51:33.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assembly-UnityScript-firstpass.dll">
+      <PackagePath>Assembly-UnityScript-firstpass.dll</PackagePath>
+      <Modified>2014-09-30T20:51:33.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assembly-UnityScript.dll">
+      <PackagePath>Assembly-UnityScript.dll</PackagePath>
+      <Modified>2014-09-30T20:51:33.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Boo.Lang.dll">
+      <PackagePath>Boo.Lang.dll</PackagePath>
+      <Modified>2014-09-30T20:51:33.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2014-09-30T20:51:34.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+      <Modified>2014-09-30T20:51:34.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+      <Modified>2014-08-14T09:26:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\UnityScript.Lang.dll">
+      <PackagePath>UnityScript.Lang.dll</PackagePath>
+      <Modified>2014-09-30T20:51:34.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+      <Modified>2014-09-30T20:51:34.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2014-08-14T09:33:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+      <Modified>2014-08-14T09:26:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+      <Modified>2014-08-14T09:26:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+      <Modified>2014-08-14T09:26:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+      <Modified>2014-08-14T09:26:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2014-08-14T09:32:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Players\Windows81\x86\Master\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+      <Modified>2014-08-14T09:26:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-12T13:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-12T13:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-12T13:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-12T13:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-12T13:02:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2014-09-30T20:49:14.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\level1">
+      <PackagePath>Data\level1</PackagePath>
+      <Modified>2014-09-30T20:49:15.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\level2">
+      <PackagePath>Data\level2</PackagePath>
+      <Modified>2014-09-30T20:49:15.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+      <Modified>2014-09-30T20:49:25.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\PlayerConnectionConfigFile">
+      <PackagePath>Data\PlayerConnectionConfigFile</PackagePath>
+      <Modified>2014-09-30T20:49:31.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2014-08-13T11:35:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2014-09-30T20:49:31.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+      <Modified>2014-09-30T20:50:09.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2014-09-30T20:49:30.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2014-09-30T20:49:29.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+      <Modified>2014-09-30T20:49:29.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\sharedassets2.assets">
+      <PackagePath>Data\sharedassets2.assets</PackagePath>
+      <Modified>2014-09-30T20:49:29.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\Data\sharedassets3.assets">
+      <PackagePath>Data\sharedassets3.assets</PackagePath>
+      <Modified>2014-09-30T20:49:29.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\bin\x86\Master\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-30T20:50:55.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\bin\x86\Master\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-30T20:50:55.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\bin\x86\Master\Template.xr.xml">
+      <PackagePath>Template.xr.xml</PackagePath>
+      <Modified>2014-09-30T20:50:54.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated\Metro\Mushroom\bin\x86\Master\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-30T20:50:57.777</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

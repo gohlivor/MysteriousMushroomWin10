@@ -1,0 +1,318 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1247]
+    Renderer: AMD Radeon R9 200 Series
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+d3d: creation params: flags=44 swap=1 vsync=80000000 w=314 h=205 fmt=21 bbcount=1 dsformat=75 pflags=0
+d3d: failed to create device [queried technique not available]
+D3D9 initialization failed
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2030 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus;C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'n1ggles'
+OS-Version: 6.2.9200 () 0x100-0x1
+C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus.exe:Oculus.exe (00A60000), size: 12259328 (result: 0), SymType: '-exported-', PDB: 'C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus.exe', fileVersion: 4.6.0.31489
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77710000), size: 1470464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.17278
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (75D90000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9600.17056
+C:\Windows\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (75700000), size: 851968 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNELBASE.dll', fileVersion: 6.3.9600.17278
+C:\Windows\system32\apphelp.dll:apphelp.dll (75020000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\apphelp.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (71DF0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (75ED0000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (75FB0000), size: 1372160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USER32.dll', fileVersion: 6.3.9600.17238
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (74A70000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ole32.dll:ole32.dll (761A0000), size: 1097728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17042
+C:\Windows\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (754D0000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (762C0000), size: 491520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ADVAPI32.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (77530000), size: 1077248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.17246
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (76340000), size: 18575360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHELL32.dll', fileVersion: 6.3.9600.17278
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5C560000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (74C50000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17078
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (75820000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.16506
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (74110000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (77500000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17031
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (715D0000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17039
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (71A80000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6E230000), size: 606208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (75B80000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.16384
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (757D0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.16384
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+C:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75520000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17216
+C:\Windows\SYSTEM32\combase.dll:combase.dll (75150000), size: 1368064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (757E0000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (5C3E0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.16384
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (5C2F0000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (74A30000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17080
+C:\Windows\SYSTEM32\MSCTF.dll:MSCTF.dll (75A80000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSCTF.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (71A70000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (75130000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.16408
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (5C2E0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.16384
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (75A30000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (747F0000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.16384
+- Completed reload, in  0.114 seconds
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (75120000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (750C0000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.17120
+C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Plugins\OculusPlugin.DLL:OculusPlugin.DLL (0F9C0000), size: 618496 (result: 0), SymType: '-exported-', PDB: 'C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Plugins\OculusPlugin.DLL'
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (6EDD0000), size: 401408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17201
+C:\Windows\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (75320000), size: 1757184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SETUPAPI.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (5C410000), size: 1343488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.16520
+C:\Windows\SYSTEM32\d3d9.dll:d3d9.dll (6EE80000), size: 1802240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d9.dll', fileVersion: 6.3.9600.17095
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (740F0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dwmapi.dll', fileVersion: 6.3.9600.17238
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (6EC20000), size: 1765376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 6.3.9600.17041
+C:\Windows\SYSTEM32\d3d10core.dll:d3d10core.dll (0F930000), size: 294912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10core.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\d3d10.dll:d3d10.dll (0FCB0000), size: 1085440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\OVRDisplayRT32.dll:OVRDisplayRT32.dll (01A10000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OVRDisplayRT32.dll', fileVersion: 1.0.25.0
+C:\Windows\SYSTEM32\shcore.dll:shcore.dll (74770000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17238
+C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Mono\mono.dll'
+C:\Windows\SYSTEM32\PSAPI.DLL:PSAPI.DLL (75F40000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PSAPI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (71650000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (74610000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.16384
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (743B0000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\aticfx32.dll:aticfx32.dll (717D0000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\aticfx32.dll', fileVersion: 8.17.10.1247
+C:\Windows\SYSTEM32\OVRDisplay32.dll:OVRDisplay32.dll (0FC80000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OVRDisplay32.dll', fileVersion: 1.0.25.0
+C:\Windows\SYSTEM32\atiuxpag.dll:atiuxpag.dll (6EBF0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\atiuxpag.dll', fileVersion: 8.14.1.6354
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+C:\Windows\SYSTEM32\atidxx32.dll:atidxx32.dll (6E370000), size: 8384512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\atidxx32.dll', fileVersion: 8.17.10.525
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (745F0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTSP.dll', fileVersion: 6.3.9600.16384
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (745C0000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.3.9600.17200
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (745A0000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcrypt.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (71940000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (71A50000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 6.3.9600.17111
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (536C0000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (6EBB0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (6D4F0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (719D0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc.DLL', fileVersion: 6.3.9600.17111
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (71570000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (719F0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17090
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (71990000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (55840000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (53660000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\dsound.dll:dsound.dll (508E0000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\clbcatq.dll:clbcatq.dll (752A0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.16384
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (71580000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 6.3.9600.17042
+
+========== OUTPUTING STACK TRACE ==================
+
+Crash in winutils::ProcessInternalCrash(PEXCEPTION_POINTERS pExInfo)Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1247]
+    Renderer: AMD Radeon R9 200 Series
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+d3d: creation params: flags=44 swap=1 vsync=80000000 w=314 h=205 fmt=21 bbcount=1 dsformat=75 pflags=0
+d3d: failed to create device [queried technique not available]
+D3D9 initialization failed
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2030 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus;C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'n1ggles'
+OS-Version: 6.2.9200 () 0x100-0x1
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus.exe:Oculus.exe (00A60000), size: 12259328 (result: 0), SymType: '-exported-', PDB: 'C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus.exe', fileVersion: 4.6.0.31489
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77710000), size: 1470464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.17278
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (75D90000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9600.17056
+- Completed reload, in  0.048 seconds
+C:\Windows\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (75700000), size: 851968 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNELBASE.dll', fileVersion: 6.3.9600.17278
+C:\Windows\system32\apphelp.dll:apphelp.dll (75020000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\apphelp.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (71DF0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (75ED0000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (75FB0000), size: 1372160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USER32.dll', fileVersion: 6.3.9600.17238
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (74A70000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ole32.dll:ole32.dll (761A0000), size: 1097728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17042
+C:\Windows\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (754D0000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (762C0000), size: 491520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ADVAPI32.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (77530000), size: 1077248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.17246
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (76340000), size: 18575360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHELL32.dll', fileVersion: 6.3.9600.17278
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5C560000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (74C50000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17078
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (75820000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.16506
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (74110000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (77500000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (715D0000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17039
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (71A80000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6E230000), size: 606208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.16384
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+C:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (75B80000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.16384
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (757D0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75520000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17216
+C:\Windows\SYSTEM32\combase.dll:combase.dll (75150000), size: 1368064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (757E0000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (5C3E0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (5C2F0000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (74A30000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17080
+C:\Windows\SYSTEM32\MSCTF.dll:MSCTF.dll (75A80000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSCTF.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (71A70000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (75130000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.16408
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (5C2E0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (75A30000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (747F0000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (75120000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (750C0000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.17120
+C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Plugins\OculusPlugin.DLL:OculusPlugin.DLL (0F9C0000), size: 618496 (result: 0), SymType: '-exported-', PDB: 'C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Plugins\OculusPlugin.DLL'
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (6EDD0000), size: 401408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17201
+C:\Windows\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (75320000), size: 1757184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SETUPAPI.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (5C410000), size: 1343488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.16520
+C:\Windows\SYSTEM32\d3d9.dll:d3d9.dll (6EE80000), size: 1802240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d9.dll', fileVersion: 6.3.9600.17095
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (740F0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dwmapi.dll', fileVersion: 6.3.9600.17238
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (6EC20000), size: 1765376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 6.3.9600.17041
+C:\Windows\SYSTEM32\d3d10core.dll:d3d10core.dll (0F930000), size: 294912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10core.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\d3d10.dll:d3d10.dll (0FCB0000), size: 1085440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\OVRDisplayRT32.dll:OVRDisplayRT32.dll (00410000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OVRDisplayRT32.dll', fileVersion: 1.0.25.0
+C:\Windows\SYSTEM32\shcore.dll:shcore.dll (74770000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17238
+C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Mono\mono.dll'
+C:\Windows\SYSTEM32\PSAPI.DLL:PSAPI.DLL (75F40000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PSAPI.DLL', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (71650000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (74610000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.16384
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (743B0000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\aticfx32.dll:aticfx32.dll (717D0000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\aticfx32.dll', fileVersion: 8.17.10.1247
+C:\Windows\SYSTEM32\OVRDisplay32.dll:OVRDisplay32.dll (0FC80000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OVRDisplay32.dll', fileVersion: 1.0.25.0
+C:\Windows\SYSTEM32\atiuxpag.dll:atiuxpag.dll (6EBF0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\atiuxpag.dll', fileVersion: 8.14.1.6354
+C:\Windows\SYSTEM32\atidxx32.dll:atidxx32.dll (6E370000), size: 8384512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\atidxx32.dll', fileVersion: 8.17.10.525
+C:\Windows\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (71940000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (536C0000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (6EBB0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (6D4F0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (719F0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17090
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (71990000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 6.3.9600.17031
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (55840000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (53660000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\dsound.dll:dsound.dll (508E0000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.16384
+C:\Windows\SYSTEM32\clbcatq.dll:clbcatq.dll (752A0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.16384
+
+========== OUTPUTING STACK TRACE ==================
+
+Crash in winutils::ProcessInternalCrash(PEXCEPTION_POINTERS pExInfo)Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1247]
+    Renderer: AMD Radeon R9 200 Series
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+The tree Floral4 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree Floral13 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree Floral1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree Floral7 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree Floral3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree ShroomPrefab must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+Platform assembly: C:\Users\n1ggles\Documents\Mushroom_updated\Mushroom_updated\Oculus\Oculus_Data\Managed\System.dll (this message is harmless)
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+i hit a bullet
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

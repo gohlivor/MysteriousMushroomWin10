@@ -1,0 +1,7 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<UnityInstallationDir>C:\Program Files (x86)\Unity4.6\Editor</UnityInstallationDir>
+		<UnityWSAPlayerDir>C:\Program Files (x86)\Unity4.6\Editor\Data\PlaybackEngines\MetroSupport</UnityWSAPlayerDir>
+		<UnityProjectDir>C:\Users\nalivorn\Desktop\Mushroom_updated\Mushroom_updated</UnityProjectDir>
+	</PropertyGroup>
+</Project>
