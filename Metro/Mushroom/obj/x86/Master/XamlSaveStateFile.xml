@@ -1,0 +1,20 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\obj\x86\master\intermediatexaml\template.exe" HashGuid="b89cb3e8-29ed-39a8-42a4-d88d9fb37ed4" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\assembly-csharp-firstpass.dll" HashGuid="8d6cc9f3-4f0d-1e2e-d04a-a53672540c32" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\assembly-csharp.dll" HashGuid="43a80813-aeb6-ffc9-ce24-b39edda54b95" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\assembly-unityscript-firstpass.dll" HashGuid="be923db2-550d-6026-2256-b61b8206dee7" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\assembly-unityscript.dll" HashGuid="e6688980-1330-adde-8127-ecbb43fd4a35" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\boo.lang.dll" HashGuid="d3f5ae3b-c3f0-787d-6435-8f315d250733" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\players\windows81\x86\master\bridgeinterface.winmd" HashGuid="3dada92f-87c6-9b24-3f0e-5c07adc634cd" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\unityengine.dll" HashGuid="5c5d9e97-41c7-6a95-8923-60ddedf7ec6d" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\unityengine.ui.dll" HashGuid="e2d16f81-7c7d-2dc6-5e9d-c693495e8fa9" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\players\windows81\x86\master\unityenginedelegates.winmd" HashGuid="d5bfa646-8453-25f8-b5ef-24280c447d94" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\players\windows81\x86\master\unityengineproxy.dll" HashGuid="39396e62-c95b-d34a-836c-a962cf7f2d15" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\players\windows81\x86\master\unityplayer.winmd" HashGuid="325c3326-5f3a-8d33-be61-e51ffe924550" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\unityscript.lang.dll" HashGuid="081b53c8-7162-3f17-0cd1-50ee875dfba2" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\players\windows81\x86\master\winrtbridge.winmd" HashGuid="79ba068f-80b7-2dbc-c0b5-2ccf158a4895" />
+    <ReferenceAssembly PathName="c:\users\nalivorn\desktop\mushroom_updated\mushroom_updated\metro\mushroom\winrtlegacy.dll" HashGuid="9fbd9201-9d64-6638-1955-a01247114aad" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
