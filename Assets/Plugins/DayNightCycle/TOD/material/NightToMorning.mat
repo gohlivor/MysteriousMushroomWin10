@@ -2,14 +2,16 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 3
+  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: NightToMorning
   m_Shader: {fileID: 4800000, guid: 38da8bd130adf1f47aa59d9f058ea183, type: 3}
-  m_ShaderKeywords: []
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
   m_CustomRenderQueue: -1
+  stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
     m_TexEnvs:
@@ -106,7 +108,7 @@ Material:
       data:
         first:
           name: _Tint
-        second: {r: .492307663, g: .492307663, b: .492307663, a: 0}
+        second: {r: 0.49230766, g: 0.49230766, b: 0.49230766, a: 0}
 --- !u!1002 &2100001
 EditorExtensionImpl:
   serializedVersion: 6
