@@ -8,6 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mushroomscene.unity
   - enabled: 1
+    path: Assets/Scenes/LevelTwo.unity
+  - enabled: 1
     path: Assets/Scenes/Gameover.unity
   - enabled: 1
     path: Assets/Scenes/Startscreen.unity

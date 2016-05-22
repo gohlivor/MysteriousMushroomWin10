@@ -58,7 +58,7 @@ function Update()
 	if(time <= DayLength)
 		slider = ((time / DayLength) * (EndTime - StartTime) / 24) + (StartTime / 24);
 	else
-		Application.LoadLevel("Gameover");
+		Application.LoadLevel("LevelTwo");
 }
 
 function OnGUI () {
