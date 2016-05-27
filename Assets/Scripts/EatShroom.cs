@@ -34,7 +34,7 @@ public class EatShroom : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		if (Input.GetKeyDown(KeyCode.A)) 
+		if (Input.GetMouseButtonDown(0)) 
 		{
 			isMoving = true;
 		}
