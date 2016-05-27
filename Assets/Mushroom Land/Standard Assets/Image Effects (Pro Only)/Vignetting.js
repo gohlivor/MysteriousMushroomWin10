@@ -96,4 +96,10 @@ class Vignetting /* And Chromatic Aberration */ extends PostEffectsBase {
 		if (secondHalfRezColor) RenderTexture.ReleaseTemporary (secondHalfRezColor);		
 	}
 
+	function ChangeVingnetting (value : float) 
+	{
+		intensity = value;
+		print (value);
+	}
+
 }

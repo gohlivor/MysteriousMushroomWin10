@@ -13,7 +13,11 @@ public class EatShroom : MonoBehaviour
 
 	public AnimationCurve moveCurve;
 
-	private float tolerance = 0.05f;
+	public CameraWobble wobbleScript;
+
+	public float delayTime;
+
+	private float delayElapsed;
 
 	private float elapsedTime;
 
@@ -52,7 +56,15 @@ public class EatShroom : MonoBehaviour
 			if (interpolateValue >= 1.0) 
 			{
 				isMoving = false;
+				StartCoroutine (DelayAnimations ());
 			}
 		}
+	}
+
+	IEnumerator DelayAnimations() 
+	{
+		yield return new WaitForSeconds(delayTime);
+		SendMessage ("StartFade");
+		wobbleScript.StartWobble ();
 	}
 }
