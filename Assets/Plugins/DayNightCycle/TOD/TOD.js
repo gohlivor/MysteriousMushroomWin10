@@ -34,6 +34,10 @@ var SkyBoxMaterial2 : Material;
 var SunNight : Color;
 var SunDay : Color;
 
+//eyeblink to trasition into second level
+var topLid : GameObject; 
+var bottomLid: GameObject;
+
 //THIS WAS ADDED IN TUTORIAL NUMBER 24. It allows for changing the color that reflects of a water object.
 //Uncheck IncludeWater if you are not interested in using this.
 var Water : GameObject;
@@ -47,6 +51,10 @@ function Start()
 	slider = StartTime / 24f;
 
 	cycleStartTime = Time.timeSinceLevelLoad;
+    
+    //eyeblink
+	topLid = GameObject.Find("Eyelid_top");
+	bottomLid = GameObject.Find("Eyelid_bottom");
 }
 
 //figure out slider value
@@ -58,7 +66,12 @@ function Update()
 	if(time <= DayLength)
 		slider = ((time / DayLength) * (EndTime - StartTime) / 24) + (StartTime / 24);
 	else
-		Application.LoadLevel("LevelTwo");
+	    Application.LoadLevel("LevelTwo");
+    //Eyeblink transition
+	/*if(DayLength = 100)
+	{
+	    topLid.animation.Play("Eyelid_top");
+	}*/
 }
 
 function OnGUI () {
